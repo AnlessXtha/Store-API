@@ -1,3 +1,9 @@
 Commit #1
-- Storing all the prepared project files
-- Creating commit.txt
+- Storing all the prepared project files.
+- Creating commit.txt.
+
+Commit #2
+- Modify all the files such as controllers(product.js), models(product.js), routes(products.js) , app.js, populate.js.
+- Most of the files were has similar features as the first project.
+- populate.js is a file that is used to push the data in a json file to the database in MongoDB using features of mongoose.
+- A package called express-async-errors was used to handle asynchoronus errors rather than creating it ourselves.
