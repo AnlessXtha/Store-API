@@ -1,0 +1,3 @@
+Commit #1
+- Storing all the prepared project files
+- Creating commit.txt
